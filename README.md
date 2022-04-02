@@ -4,7 +4,7 @@ Dunzo is an Indian company that delivers groceries and essentials, food, fruits 
 # 2. Tech stack used:
 We used JavaScript, MongoDB, Express.js, Node.js. We also used Heroku to deploy our backend.
 # 3. End points:
-Using the below endpoints one can do the basuc CRUD operations.
+Using the below endpoints one can do the basic CRUD operations.
 https://dunzobackendclone.herokuapp.com/groceries
 
 https://dunzobackendclone.herokuapp.com/restaurants
